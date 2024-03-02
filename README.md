@@ -11,12 +11,11 @@
 <a href="https://linkedin.com/in/imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imawadh" height="30" width="40" /></a>
 <a href="https://instagram.com/im_awadh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_awadh_" height="30" width="40" /></a>
 <a href="https://hashnode.com/@imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imawadh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code chat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code chat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imawadh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imawadh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/awadh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="awadh241" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imawadh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imawadh" height="30" width="40" /></a>
-<a href="/https://awadh.versel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://awadh.versel.app" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@awadhkishorsingh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@awadhkishorsingh241" height="30" width="40" /></a>
+<a href="/https://awadh.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://awadh.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
