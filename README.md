@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imawadh" alt="imawadh" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/im_awadh_" target="blank"><img src="https://img.shields.io/twitter/follow/im_awadh_?logo=twitter&style=for-the-badge" alt="im_awadh_" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_awadh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_awadh_" height="30" width="40" /></a>
@@ -15,7 +17,6 @@
 <a href="https://codeforces.com/profile/awadh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="awadh241" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imawadh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@awadhkishorsingh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@awadhkishorsingh241" height="30" width="40" /></a>
-<a href="/https://awadh.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://awadh.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
