@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imawadh&label=Profile%20views&color=0e75b6&style=flat" alt="imawadh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/im_awadh_" target="blank"><img src="https://img.shields.io/twitter/follow/im_awadh_?logo=twitter&style=for-the-badge" alt="im_awadh_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/im_awadh_" target="_blank"><img src="https://img.shields.io/twitter/follow/im_awadh_?logo=twitter&style=for-the-badge" alt="im_awadh_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im_awadh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_awadh_" height="30" width="40" /></a>
+<a href="https://twitter.com/im_awadh_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_awadh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imawadh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imawadh" height="30" width="40" /></a>
-<a href="https://instagram.com/im_awadh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_awadh_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imawadh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imawadh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imawadh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/awadh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="awadh241" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imawadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imawadh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@awadhkishorsingh241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@awadhkishorsingh241" height="30" width="40" /></a>
+<a href="https://instagram.com/im_awadh_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_awadh_" height="30" width="40" /></a>
+<a href="https://hashnode.com/@imawadh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imawadh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/imawadh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imawadh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/awadh241" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="awadh241" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imawadh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imawadh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@awadhkishorsingh241" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@awadhkishorsingh241" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
