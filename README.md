@@ -2,8 +2,8 @@
 
 <p align="center">
   <em>
-    Second-year student pursuing B.Tech in Data Science & Artificial Intelligence<br>
-    Passionate about solving real-world problems through tech, with a keen interest in web development and machine learning.
+    Second-year student pursuing <strong>Bachelor in Data Science & Application from IIT Madras</strong>span><br>
+    Passionate about solving real-world problems through tech, with a keen interest in <strong><strong>Web Development</strong>and <strong> Machine Learning<strong>.
   </em>
 </p>
 
