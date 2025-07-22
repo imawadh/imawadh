@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=imawadh&theme=radical" alt="GitHub Streak" />
 </p>
 
