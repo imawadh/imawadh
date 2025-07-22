@@ -3,7 +3,7 @@
 <p align="center">
   <em>
     Second-year student pursuing <strong>Bachelor in Data Science & Application from IIT Madras</strong>.<br>
-    Passionate about solving real-world problems through tech, with a keen interest in <strong><strong>Web Development</strong>and <strong> Machine Learning<strong>.
+    Passionate about solving real-world problems through tech, with a keen interest in <strong>Web Development</strong>and <strong> Machine Learning<strong>.
   </em>
 </p>
 
@@ -65,10 +65,22 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=imawadh&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=imawadh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+    </td>
+  </tr>
+</table>
 
-<p align="center" width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imawadh&theme=radical" alt="GitHub Streak" />
-</p>
+
+
+
+
+
 
 
 ---
