@@ -3,9 +3,6 @@
 <p align="center">
 I'm a second-year student studying Data Science and Artificial Intelligence. I'm very interested in using technology to solve real problems. I also have a strong interest in web development. I'm looking for chances to use what I've learned in programming, machine learning, and data science in real-life projects. I'm excited to work on creative and useful web-based projects, and I want to keep learning and improving my skills by working with others in a team. As I continue to develop my coding abilities, I'm excited to see where this journey will take me and how I can contribute to the tech community. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imawadh&label=Profile%20views&color=0e75b6&style=flat" alt="imawadh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/im_awadh_" target="_blank"><img src="https://img.shields.io/twitter/follow/im_awadh_?logo=twitter&style=for-the-badge" alt="im_awadh_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
