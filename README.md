@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awadh Kishor Singh</h1>
-<h3 align="center">I'm exploring the cool world of tech🌐, turning innovative ideas into reality through programming👨‍💻. Right now, I'm diving deep into the basics, honing my skills, and enjoying every moment of this coding adventure. 🌟🚀 Whether it's solving problems, building projects, or simply experimenting with new concepts, I'm always eager to learn and grow in this dynamic field. As I continue to develop my coding abilities, I'm excited to see where this journey will take me and how I can contribute to the tech community. </h3>
+<h3>About Me </h3>
+<p align="center">
+I'm a second-year student studying Data Science and Artificial Intelligence. I'm very interested in using technology to solve real problems. I also have a strong interest in web development. I'm looking for chances to use what I've learned in programming, machine learning, and data science in real-life projects. I'm excited to work on creative and useful web-based projects, and I want to keep learning and improving my skills by working with others in a team. As I continue to develop my coding abilities, I'm excited to see where this journey will take me and how I can contribute to the tech community. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imawadh&label=Profile%20views&color=0e75b6&style=flat" alt="imawadh" /> </p>
 
