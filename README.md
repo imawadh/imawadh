@@ -61,20 +61,21 @@
       <img src="https://github-readme-stats.vercel.app/api?username=imawadh&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imawadh&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com?user=imawadh&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=imawadh&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=imawadh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-    </td>
+
+---
+
+### 📜 Certifications
+
+- 📊 [Complete Data Analyst Bootcamp from Basic to Advanced – Udemy](https://www.udemy.com/certificate/UC-1590fb55-374f-406a-8285-014f7a1b1088/)  
+- 🤖 [Mathematics-Basics to Advanced for Data Science And GenAI -Udemy](https://www.udemy.com/certificate/UC-d4ef6961-95f9-4912-be28-c2c0cf02974a/)  
+
   </tr>
 </table>
+
 
 
 
