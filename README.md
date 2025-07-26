@@ -58,10 +58,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=imawadh&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://streak-stats.demolab.com?user=imawadh&theme=radical" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=imawadh&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=imawadh&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
